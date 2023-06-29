@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+![Header](./[Header_Image.png])
 
 
 # Predicting the Instrinsic Valuation of Fine Art
